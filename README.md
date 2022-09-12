@@ -4,7 +4,7 @@ This project contains the notes of the [ML-zoomcamp](https://github.com/alexeygr
 
 ## Getting started
 
-To create the environment and run the notebook: 
+**To create the environment and run the notebook for the first time**
 
 1. Clone this repository:
    
@@ -20,7 +20,7 @@ To create the environment and run the notebook:
 3. Open a notebook
 ***
 
-To activate the environment and jupyter lab
+**To activate the environment and jupyter lab**
 
 1. Run the following lines in the terminal
    ```bash
